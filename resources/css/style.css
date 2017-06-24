@@ -25,3 +25,11 @@ nav a{
   font-size: 18px;
   color: white;
 }
+
+.header{
+  background-image: url("resources/images/the-flatiron-building.png");
+}
+
+.header ul{
+  list-style-type: none;
+}
