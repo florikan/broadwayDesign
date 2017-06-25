@@ -44,8 +44,10 @@ nav a{
   color:white;
   font-size: 11px;
   background-color: dimgray;
+  text-align: left
 }
 
 .footer a{
   font-size: 18px;
+  color: white;
 }
