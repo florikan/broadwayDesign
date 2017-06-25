@@ -30,6 +30,6 @@ nav a{
   background-image: url("../images/the-flatiron-building.png");
 }
 
-.header ul{
-  list-style-type: none;
+.header a{
+  color: white;
 }
