@@ -32,4 +32,20 @@ nav a{
 
 .header a{
   color: white;
+  font-size: 18px;
+}
+
+.designedNY{
+  background-image: url("../images/the-flatiron-building.png");
+  color:white;
+}
+
+.footer{
+  color:white;
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+.footer a{
+  font-size: 18px;
 }
